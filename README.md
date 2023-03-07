@@ -1,5 +1,11 @@
+### Comic
 # Ham-The-Space-Monkey
-## Comic
+
+Contributers:
+- Alaa Al Shaba
+- Aliya Koishina
+- Rose Chen
+- Soumen Mohanty
 
  "Ham, the first chimpanzee to explore space"
 
