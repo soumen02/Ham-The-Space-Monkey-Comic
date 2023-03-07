@@ -1,15 +1,8 @@
 # Ham-The-Space-Monkey-Comic
 
-Writeup a documentation of your project on your GitHub account by editing the README file, and including the following:
-- Project Name
-- Project Description: what is the project, what is the overall concept and theme, and what kind of experience you were striving to create.
-- Process: How did you go about implementing the concept. Describe your role and what your contribution was.
-- Reflection/Evaluation: This should bookend the initial concept and talk about whether your expectations and goals were met in the process of building the final working version.
+"Ham, the first chimpanzee to explore space"
 
-
-
-Process:
-Creating a 6-panel interactive comic using 2D software such as Adobe Illustrator and/or Photoshop was an interesting challenge that required careful planning, creativity, and attention to detail. Our group's story, "Ham-The Space Monkey" added an extra layer of excitement and fun to the project.
+Our comics website is a tribute to Ham, the first chimpanzee to travel to outer space. Inspired by Ham's remarkable story of courage, we decided to create an epic adventure that captures his curiosity and desire to explore the unknown. Our goal was to create a captivating story that not only entertains but also educates readers about the history of Ham and his impact on space exploration. Although Ham came back to Earth and lived in zoo, we used our imagination and explored the possibility of Ham's desire to continue exploring and staying in space. This allowed us to create an engaging story that not only pays tribute to Ham's bravery but also ignites readers' sense of adventure and curiosity. We used interactivity features to allow user to engage with the main character, while being delved into a space journey :)
 
 One of the first steps we took as a group was to brainstorm ideas for our comic's story and interactivity features. We discussed possible plot lines, characters, settings, and interactive elements that would make our comic engaging and entertaining for the audience. We also considered different ways to present the story on a web page and how to use technology to enhance the user experience.
 
