@@ -15,6 +15,6 @@ Contributers:
 
  Once we had a clear idea of what we wanted to portray, we started working on the actual content of the comic. We used Adobe Illustrator and Photoshop, as well as the AI drawing application "Midjourney" and an iPad app called Procreate to create our protagonist Ham and other background arts, combining original drawings, photos and mixed media elements. We paid close attention to the composition, color, and visual narrative of each panel, making sure that the story flowed smoothly and the characters were well-developed.
 
- We also added interactivity features to our comic, such as animations, and clickable options that allowed the audience to explore more. These features not only made the comic more engaging but also showcased the potential of web-based storytelling.
+ We also added interactivity features to our comic, such as animations, and clickable options that allowed the audience to explore more. These features not only made the comic more engaging but also showcased the potential of web-based storytelling. By adding the feature of selecting a planet, one is also able to learn interact with Ham's journey of exploring other planets, while educating oneself about some space facts.
 
  As we worked on the project, we faced some challenges, such as coordinating schedules, balancing workload, and learning new software features. However, we overcame these obstacles by communicating effectively, delegating tasks, and seeking help when needed.
